@@ -1,2 +1,4 @@
 # Docker-K8s
 文档有些许潦草，持续更新中，后续即将上传K8s部分
+## 配置文件
+- `CentOS-Base.repo`：CentOS 7 阿里云yum源配置
