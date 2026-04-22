@@ -1,4 +1,4 @@
 # Docker-K8s
-文档有些许潦草，持续更新中，后续即将上传K8s部分
+Docker+K8s+Harbor运维实战的版本目前比较完整，Docker容器技术上传的早，但较为详细。
 ## 配置文件
 - `CentOS-Base.repo`：CentOS 7 阿里云yum源配置
